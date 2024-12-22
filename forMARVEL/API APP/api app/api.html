@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="utf-8">
+    <title>Open Weather API App</title>
+    <meta name="description" content="A simple app to display current weather data from OpenWeatherMap API.">
+    <meta name="author" content="Your Name">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="style.css"
+    
+</head>
+
+<body>
+
+    <h1>Open Weather API App</h1>
+    <form id="myForm">
+        <input type="text" id="city" required placeholder="Enter city here" />
+        <input type="submit" value="Get Weather" />
+    </form>
+
+    <div class="weather-wrapper">
+        <p><strong>Place</strong><br /><span class="weather-place"></span></p>
+        <p><strong>Temperature</strong><br /><span class="weather-temperature"></span> (<span
+                class="weather-min-temperature"></span> - <span class="weather-max-temperature"></span>)</p>
+        <p><strong>Description</strong><br /><span class="weather-description"></span></p>
+        <p><strong>Sunrise</strong><br /><span class="weather-sunrise"></span></p>
+        <p><strong>Sunset</strong><br /><span class="weather-sunset"></span></p>
+    </div>
+
+    <div class="error-message"></div>
+
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Handle form submission
+            $("#myForm").submit(function (e) {
+                e.preventDefault();
+                var city = $("#city").val();  // Get the city from input
+                $(".error-message").hide();  // Hide error message
+                $(".weather-wrapper").hide();  // Hide weather data
+                getWeather(city);  // Call the function to get weather data
+            });
+
+            // Function to get weather data
+            function getWeather(city) {
+                var apiKey = '3efca17997bdca4ae28de70a6a0dd004'; // Your API key
+                var apiUrl = 'https://api.openweathermap.org/data/2.5/weather?q=' + city + '&appid=' + apiKey + '&units=metric';
+
+                $.ajax({
+                    url: apiUrl,
+                    method: 'GET',
+                    success: function (data) {
+                        console.log('Weather Data:', data);  // Log the response for debugging
+                        
+                        // Display the weather data
+                        $('.weather-place').text(data.name + ', ' + data.sys.country);
+                        $('.weather-temperature').text(data.main.temp + '°C');
+                        $('.weather-min-temperature').text(data.main.temp_min + '°C');
+                        $('.weather-max-temperature').text(data.main.temp_max + '°C');
+                        $('.weather-description').text(data.weather[0].description);
+                        $('.weather-sunrise').text(new Date(data.sys.sunrise * 1000).toLocaleTimeString());
+                        $('.weather-sunset').text(new Date(data.sys.sunset * 1000).toLocaleTimeString());
+
+                        // Show weather data and hide the error message
+                        $(".weather-wrapper").show();
+                    },
+                    error: function (error) {
+                        console.log('API Error:', error);  // Log any error from API
+                        $(".error-message").show().text('City not found, please try again.');
+                    }
+                });
+            }
+        });
+    </script>
+
+</body>
+
+</html>
