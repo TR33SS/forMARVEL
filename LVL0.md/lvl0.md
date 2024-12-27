@@ -65,7 +65,7 @@ Create a folder named test   : mkdir test
 Navigate into the test folder: cd test
 Create a blank file          : touch blankfile.txt
 Create 2600 folders          : mkdir m(0001..2600)
-List files in the termina    : ls
+List files in the terminal   : ls
 
 Concatenate and display two text files:  cat file1.txt file2.txt
 
