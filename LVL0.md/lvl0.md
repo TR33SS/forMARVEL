@@ -247,7 +247,7 @@ with resistor
 
 ---
 
-## **TASK 13: Design a 555 astable multivibrato**
+## **TASK 13: Design a 555 astable multivibrator**
 
 The DSO will display a pulse with a 60% high time and 40% low time, reflecting the 60% duty cycle. The frequency of the pulse depends on your resistor and capacitor values.
  Duty cycle Expected-60%.My task outcome-59.4%.
