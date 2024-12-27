@@ -27,7 +27,6 @@ MARKDOWN files end with (.md)
 ###### Heading Level 6
 ```
 
-![alt text](<Screenshot 2024-11-29 010733.jpg>)
 
 
  ## 2.Paragraphs
@@ -151,12 +150,7 @@ even we can display images here with  the simple syntax.Images can be hosted onl
 
 `syntax: ![Alt text](URL_or_path_to_image)`
 
-example : 
-
-![alt text](20241111_080313-2.jpg)
-
-![alt text](Screenshot_20241129-013449_Google.gif)
-
+e
 
                                _/\_ Thanks for Reading _/\_
 --- 
