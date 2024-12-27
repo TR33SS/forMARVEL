@@ -2,7 +2,7 @@
 <!---ctrl+shift+v--->
 <!--Writing a report on how to use Markdown-->
 
-#Here's a quick guide to get started with Markdown (MD)
+# Here's a quick guide to get started with Markdown (MD)
 
 MARKDOWN files end with (.md)
 
