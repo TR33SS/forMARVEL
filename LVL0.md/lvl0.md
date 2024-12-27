@@ -1,15 +1,12 @@
 
 
 
-<a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
-</a>
 
 
-
-# WELCOME  EVERYONE 
-### Hello! I'm SUHAS, a 1st year student at UVCE.
+# WELCOME  EVERYONE
+### Hello! I'm SUHAS, a student at UVCE.
 ### MARVEL Batch-6,IOT
+
 ---
 ## **TASK 1: 3D Printing**
 
@@ -22,12 +19,16 @@
  ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/3D/20241221_090239.jpg?raw=true)
 
 
-[click here](https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share)
+<a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
+</a>
+
 
 
 
 
 ---
+
 ## **TASK 2: API**
 
  have learned about APIs (Application Programming Interfaces), which allow different software systems to communicate and exchange data. By using the OpenWeather API, I built a weather app that makes API calls to fetch weather data and displays it in the user interface.
@@ -39,9 +40,15 @@ APIs act as mediators when signing up via Gmail, securely sharing your informati
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/API%20APP/Screenshot%202024-12-20%20212840.png?raw=true)
 
-[GITHUB REPOSITORY](https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP)
+<a href="https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
+</a>
+
+
+
 
 ---
+
 ## **TASK 3: Working with Github**
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GIT/Screenshot_20241203-135959_Chrome.jpg?raw=true)
 
@@ -66,6 +73,7 @@ Concatenate and display two text files:  cat file1.txt file2.txt
 
 
 ---
+
 ## **TASK 5: Kaggle contest**
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/kaggle/Screenshot_20241220-210943_Chrome.jpg?raw=true)
@@ -80,15 +88,28 @@ Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_3.png?raw=true)
 
-[GITHUB REPOSITORY](https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS)
+<a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
+</a>
+
+
+
+
 
 ---
+
 ## **TASK 7: Create a Portfolio Webpage**
 
+My portfolio 👀
+(HTML+CSS+JS)
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/portfolio/127.0.0.1_5500_test2.htm.png?raw=true)
 
 
-[GITHUB REPOSITORY](https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio)
+<a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
+</a>
+
+
 
 
 ---
@@ -104,6 +125,7 @@ Learnt how to report with Markdown.
 An **ornithopter** is a type of aircraft that uses flapping wings to generate lift and thrust, mimicking the flight of birds, insects, or bats.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVxB77XYQ4ETfmeoueIJq4p67EtffNR8auw&s)
+
 ---
 
 ### **Principles of Flight**
@@ -134,10 +156,12 @@ The latest ornithopter designs take inspiration from the biomechanics of birds a
 - **Flexible Wings**: Some ornithopters now feature wings that can bend and twist, similar to the way birds' wings adjust during flight. This flexibility allows for more efficient aerodynamic performance and better control during flight.
   
 - **Flapping and Gliding**: Some designs combine flapping and gliding movements, reducing the energy needed for continuous flapping and making flight more efficient.
+
 ---
 
 
 ---
+
 ## **TASK 9: Tinkercad**
 
 
@@ -147,26 +171,39 @@ The latest ornithopter designs take inspiration from the biomechanics of birds a
 My tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 ---
+
 ## **TASK 10: Speed Control of DC Motor**
+
+I learned to control the speed of a DC motor using an Arduino and the L298N motor driver. Simulating it on Tinkercad and then doing it on hardware showed me that "Speed thrills but kills"—too much speed can lead to disaster, even for a motor!
+
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SPEED/20241203_180119.jpg?raw=true)
 
+<a href="https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
+</a>
 
-[click here](https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share)
+
 
 
 ---
+
 ## **TASK 11: LED Toggle Using ESP32**
 
  First time,hands-on experience in IoT projects
  
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/ESP32/IMG-20241202-WA0017.jpg?raw=true)
 
-[click here](https://youtube.com/shorts/L1lKp86nj68)
 
- [code](https://microdigisoft.com/control-leds-using-esp32-web-server-in-arduino-ide/)
- 
+
+<a href="https://youtube.com/shorts/L1lKp86nj68">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
+</a>
+
+
+
 ---
+
 ## **TASK 12: Soldering Prerequisites**
 
 I soldered together a simple LED circuit on a perf board.Soldering isn’t just about melting metal; it’s about precision, patience, and not burning yourself! 
@@ -194,6 +231,7 @@ The DSO will display a pulse with a 60% high time and 40% low time, reflecting t
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/555/WhatsApp%20Image%202024-12-23%20at%204.00.21%20AM.jpeg?raw=true)
 
 ---
+
 ##  **TASK 14: Karnaugh Maps and Deriving the logic circuit**
 
 learned to design a burglar alarm system using Karnaugh Maps and logic gates. By simplifying a truth table, we derived the Boolean expression A = D'K, which activates the alarm when the door is open and the key is not pressed. This was done using a NOT gate and an AND gate.
@@ -202,14 +240,27 @@ learned to design a burglar alarm system using Karnaugh Maps and logic gates. By
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/KMAP/Screenshot%202024-12-23%20024305.png?raw=true)
 
-[click here](https://youtube.com/shorts/ZaFau08NMBU)
+
+<a href="https://youtube.com/shorts/ZaFau08NMBU">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
+</a>
+
+
+
 
 ---
+
+
 ## **TASK 15: Active Participation:**
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/ACTVPARTCPN/Screenshot_23-12-2024_23052_.jpeg?raw=true)
+
+
 ---
+
+
 ## **TASK 16: Datasheets report writing:**
+
 # L293D Motor Driver IC Datasheet
 
 #### **General Description**
@@ -244,7 +295,10 @@ The L293D is a quadruple high-current half-H-Bridge motor driver integrated circ
  ![](https://lastminuteengineers.com/wp-content/uploads/arduino/L293D-Dual-H-Bridge-Motor-Driver-IC-Pinout.png)
 
 ---
+
 ####  **H-Bridge Configuration**
+
+
 The L293D uses an H-Bridge circuit to allow bidirectional control of motors. The H-Bridge consists of four switches (transistors) that control the direction of current flowing through the motor. By switching these transistors on and off, the L293D can reverse the motor's direction.
 
 - **Forward Motion:** To drive the motor forward, one pair of transistors (one on each side of the H-Bridge) is turned on, allowing current to flow in one direction.
@@ -263,6 +317,7 @@ PWM is used in the L293D to control the speed of motors. By adjusting the duty c
 
 
 ---
+
 ## **TASK 17: Task 17: Introduction to VR**
 
 ### Task 17: Introduction to Virtual Reality (VR)
@@ -307,10 +362,14 @@ Several Indian companies are developing VR and AR technologies:
 
 ---
 
-Got to try VR!
-I was in a different world.
-
-![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/VR/Screenshot_20241221-192513_Video%20Player.jpg?raw=true)
+My first experience with VR was mind-blowing! It felt like stepping into a whole new world.
 
 ---
+
+```
+
+                                                            THANK YOU
+```
+---
+                                     
 
