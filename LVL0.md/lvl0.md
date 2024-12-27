@@ -1,6 +1,9 @@
 
 
 
+<a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
+</a>
 
 
 
@@ -149,23 +152,7 @@ My tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOS
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SPEED/20241203_180119.jpg?raw=true)
 
 
-[click here](https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share)<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGaRAEM5ls/s0GXEwR9CFcsUtoQYgX8TA/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGaRAEM5ls&#x2F;s0GXEwR9CFcsUtoQYgX8TA&#x2F;watch?utm_content=DAGaRAEM5ls&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Suhas .M
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGaRAEM5ls/s0GXEwR9CFcsUtoQYgX8TA/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGaRAEM5ls&#x2F;s0GXEwR9CFcsUtoQYgX8TA&#x2F;watch?utm_content=DAGaRAEM5ls&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by Suhas .M
+[click here](https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share)
 
 
 ---
@@ -326,4 +313,4 @@ I was in a different world.
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/VR/Screenshot_20241221-192513_Video%20Player.jpg?raw=true)
 
 ---
-![alt text](giphy.webp)
+
