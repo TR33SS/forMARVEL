@@ -1,13 +1,10 @@
 
 
-
-
-
 # WELCOME  EVERYONE
-### Hello! I'm SUHAS, a student at UVCE.
-### MARVEL Batch-6,IOT
+## Suhas's IOT-001  Level 1 Report
 
 ---
+
 ## **TASK 1: 3D Printing**
 
  Explored the basics of 3D printing,how the 3D printer works,using materials like PLA to build objects layer by layer.Understood STL files are used as digital models, and I’ve explored slicing software (Creality Slicer) to prepare files for printing, adjusting settings like bed temperature and infill density for good results.
@@ -50,10 +47,17 @@ APIs act as mediators when signing up via Gmail, securely sharing your informati
 ---
 
 ## **TASK 3: Working with Github**
+
+I learnt how to create & delete my repositories.How to make changes in others repositories and push it back to them.
+ Completed this task by forkeing the given repository into my repository and then cloned the repository.
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GIT/Screenshot_20241203-135959_Chrome.jpg?raw=true)
 
 ---
 ## **TASK 4: Get familiar with the command line on ubuntu and do the following subtasks:**
+
+ Give the commands as given  below  to create 2600 files in a folder.
+
 
 ```
 
@@ -62,6 +66,11 @@ Navigate into the test folder: cd test
 Create a blank file          : touch blankfile.txt
 Create 2600 folders          : mkdir m(0001..2600)
 List files in the termina    : ls
+
+```
+Command to Concatenate two files
+
+```
 
 Concatenate and display two text files:  cat file1.txt file2.txt
 
@@ -76,11 +85,17 @@ Concatenate and display two text files:  cat file1.txt file2.txt
 
 ## **TASK 5: Kaggle contest**
 
+The Kaggle Titanic Contest is a beginner-friendly competition where I build a model to predict Titanic passenger survival using features like age, sex, and class. The goal is to accurately classify survival outcomes with historical data.
+
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/kaggle/Screenshot_20241220-210943_Chrome.jpg?raw=true)
+
 ---
 ## **TASK 6: Working with Pandas and Matplotlib:**
 
 Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted a line graph, bar graph, and scatter plot respectively.
+
+Data:TPO-UVCE
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_1.png?raw=true)
 
@@ -101,7 +116,9 @@ Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted
 ## **TASK 7: Create a Portfolio Webpage**
 
 My portfolio 👀
+
 (HTML+CSS+JS)
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/portfolio/127.0.0.1_5500_test2.htm.png?raw=true)
 
 
@@ -160,15 +177,18 @@ The latest ornithopter designs take inspiration from the biomechanics of birds a
 ---
 
 
----
 
 ## **TASK 9: Tinkercad**
 
+Tinkercad is an online 3D design and modeling tool, used for creating 3D objects,circuits.
+We can test our project's outcome before implementing them in hardware.
 
+
+From this task, I learned how to create and simulate circuits using Tinkercad, particularly for  an ultrasonic sensor to estimate distance. It helped me understand the working of this sensor.
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/TINKERCAD/ULTDSTNCSNSR.png?raw=true)
 
-My tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+ Tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 ---
 
@@ -176,6 +196,8 @@ My tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOS
 
 I learned to control the speed of a DC motor using an Arduino and the L298N motor driver. Simulating it on Tinkercad and then doing it on hardware showed me that "Speed thrills but kills"—too much speed can lead to disaster, even for a motor!
 
+
+I learned how to control a DC motor's speed using the L298N motor driver and Arduino UNO. By using Pulse Width Modulation (PWM) and varying the potentiometer, I was able to adjust the motor's speed by changing the resistance in the potentiometer.
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SPEED/20241203_180119.jpg?raw=true)
 
@@ -190,7 +212,13 @@ I learned to control the speed of a DC motor using an Arduino and the L298N moto
 
 ## **TASK 11: LED Toggle Using ESP32**
 
- First time,hands-on experience in IoT projects
+The First, hands-on experience in IoT project
+   
+I learned how to control an LED using the ESP32. By programming the ESP32 in the Arduino IDE,Got to know about GPIO pin , toggling digital outputs, and understanding the basics of the ESP32 .
+
+
+
+
  
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/ESP32/IMG-20241202-WA0017.jpg?raw=true)
 
@@ -222,6 +250,8 @@ with resistor
 
 The DSO will display a pulse with a 60% high time and 40% low time, reflecting the 60% duty cycle. The frequency of the pulse depends on your resistor and capacitor values.
  Duty cycle Expected-60%.My task outcome-59.4%.
+
+ 
  R1:R2=1:2
 
 ![](https://www.electronics-tutorials.ws/wp-content/uploads/2024/03/tim47.gif)
@@ -234,7 +264,7 @@ The DSO will display a pulse with a 60% high time and 40% low time, reflecting t
 
 ##  **TASK 14: Karnaugh Maps and Deriving the logic circuit**
 
-learned to design a burglar alarm system using Karnaugh Maps and logic gates. By simplifying a truth table, we derived the Boolean expression A = D'K, which activates the alarm when the door is open and the key is not pressed. This was done using a NOT gate and an AND gate.
+Learned to design a burglar alarm system using Karnaugh Maps and logic gates. By simplifying a truth table, we derived the Boolean expression A = D'K, which activates the alarm when the door is open and the key is not pressed. This was done using a NOT gate and an AND gate.
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/KMAP/Main%20(3).jpeg?raw=true)
 
@@ -252,6 +282,8 @@ learned to design a burglar alarm system using Karnaugh Maps and logic gates. By
 
 
 ## **TASK 15: Active Participation:**
+
+*Every action counts in the journey to success*
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/ACTVPARTCPN/Screenshot_23-12-2024_23052_.jpeg?raw=true)
 
@@ -320,7 +352,7 @@ PWM is used in the L293D to control the speed of motors. By adjusting the duty c
 
 ## **TASK 17: Task 17: Introduction to VR**
 
-### Task 17: Introduction to Virtual Reality (VR)
+![](https://storage.googleapis.com/ureify-strapi-assets/ar_vr_resume_3a465d9ba3/ar_vr_resume_3a465d9ba3.jpeg)
 
 #### What is Virtual Reality (VR)?
 
