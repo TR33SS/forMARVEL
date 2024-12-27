@@ -56,7 +56,7 @@ I learnt how to create & delete my repositories.How to make changes in others re
 ---
 ## **TASK 4: Get familiar with the command line on ubuntu and do the following subtasks:**
 
- Give the commands as given  below  to create 2600 files in a folder.
+ Give the commands as given  below.
 
 
 ```
@@ -66,11 +66,6 @@ Navigate into the test folder: cd test
 Create a blank file          : touch blankfile.txt
 Create 2600 folders          : mkdir m(0001..2600)
 List files in the termina    : ls
-
-```
-Command to Concatenate two files
-
-```
 
 Concatenate and display two text files:  cat file1.txt file2.txt
 
