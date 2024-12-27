@@ -28,7 +28,7 @@
 
 ## **TASK 2: API**
 
- have learned about APIs (Application Programming Interfaces), which allow different software systems to communicate and exchange data. By using the OpenWeather API, I built a weather app that makes API calls to fetch weather data and displays it in the user interface.
+  I have learned about APIs (Application Programming Interfaces), which allow different software systems to communicate and exchange data. By using the OpenWeather API, I built a weather app that makes API calls to fetch weather data and displays it in the user interface.
 
 This how API works! 
 APIs act as mediators when signing up via Gmail, securely sharing your information (like email) between Google and the platform for authentication without exposing your credentials.
@@ -90,6 +90,12 @@ The Kaggle Titanic Contest is a beginner-friendly competition where I build a mo
 
 Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted a line graph, bar graph, and scatter plot respectively.
 
+Python libraries like Pandas and Matplotlib really make things easier:
+
+Pandas simplifies data manipulation- for handling messy, complex data.
+
+Matplotlib turns that data into beautiful visualizations with just a few lines of code,easy to understand.
+
 Data:TPO-UVCE
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_1.png?raw=true)
@@ -101,8 +107,6 @@ Data:TPO-UVCE
 Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
 </a>
-
-
 
 
 
@@ -299,25 +303,26 @@ The L293D is a quadruple high-current half-H-Bridge motor driver integrated circ
 
 
 #### **Pin Configuration (16-Pin Dual In-line Package)**
-| Pin | Name              | Function                               |
-|-----|-------------------|----------------------------------------|
-| 1   | IN1               | Input for Motor 1 direction control   |
-| 2   | IN2               | Input for Motor 1 direction control   |
-| 3   | IN3               | Input for Motor 2 direction control   |
-| 4   | IN4               | Input for Motor 2 direction control   |
-| 5   | Ground (GND)      | Ground pin                            |
-| 6   | Ground (GND)      | Ground pin                            |
-| 7   | Vcc2              | Motor supply voltage                  |
-| 8   | Vcc1              | Logic supply voltage (typically 5V)   |
-| 9   | OUT1              | Motor 1 output (connected to motor terminal) |
-| 10  | OUT2              | Motor 1 output (connected to motor terminal) |
-| 11  | Ground (GND)      | Ground pin                            |
-| 12  | Ground (GND)      | Ground pin                            |
-| 13  | OUT3              | Motor 2 output (connected to motor terminal) |
-| 14  | OUT4              | Motor 2 output (connected to motor terminal) |
-| 15  | Vcc2              | Motor supply voltage                  |
-| 16  | Vcc1              | Logic supply voltage (typically 5V)   |
 
+
+| **Pin Number** | **Pin Name**   | **Function**                                                           | **Control**                                         |
+|----------------|----------------|------------------------------------------------------------------------|-----------------------------------------------------|
+| 1              | IN1            | Input for Motor 1 direction control                                    | Used to control the direction of Motor 1            |
+| 2              | IN2            | Input for Motor 1 direction control                                    | Used to control the direction of Motor 1            |
+| 3              | IN3            | Input for Motor 2 direction control                                    | Used to control the direction of Motor 2            |
+| 4              | IN4            | Input for Motor 2 direction control                                    | Used to control the direction of Motor 2            |
+| 5              | GND            | Ground pin                                                           | Common ground for the driver and motors             |
+| 6              | GND            | Ground pin                                                           | Common ground for the driver and motors             |
+| 7              | Vcc2           | Motor supply voltage (typically 4.5V to 36V)                          | Power supply for motors                             |
+| 8              | Vcc1           | Logic supply voltage (typically 5V)                                  | Power supply for logic circuitry                    |
+| 9              | OUT1           | Motor 1 output (connected to motor terminal)                          | Motor 1 output (controlled by IN1 and IN2)          |
+| 10             | OUT2           | Motor 1 output (connected to motor terminal)                          | Motor 1 output (controlled by IN1 and IN2)          |
+| 11             | GND            | Ground pin                                                           | Common ground for the driver and motors             |
+| 12             | GND            | Ground pin                                                           | Common ground for the driver and motors             |
+| 13             | OUT3           | Motor 2 output (connected to motor terminal)                          | Motor 2 output (controlled by IN3 and IN4)          |
+| 14             | OUT4           | Motor 2 output (connected to motor terminal)                          | Motor 2 output (controlled by IN3 and IN4)          |
+| 15             | ENA            | **Enable Pin for Motor 1**                                            | Controls Motor 1's operation and speed (PWM or 5V)  |
+| 16             | ENB            | **Enable Pin for Motor 2**                                            | Controls Motor 2's operation and speed (PWM or 5V)  |
 
  ![](https://lastminuteengineers.com/wp-content/uploads/arduino/L293D-Dual-H-Bridge-Motor-Driver-IC-Pinout.png)
 
