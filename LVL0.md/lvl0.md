@@ -16,7 +16,7 @@
  ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/3D/20241221_090239.jpg?raw=true)
 
 
-<a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
+ click me <a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
 </a>
 
@@ -37,7 +37,7 @@ APIs act as mediators when signing up via Gmail, securely sharing your informati
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/API%20APP/Screenshot%202024-12-20%20212840.png?raw=true)
 
-<a href="https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP">
+Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
 </a>
 
@@ -98,7 +98,7 @@ Data:TPO-UVCE
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_3.png?raw=true)
 
-<a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS">
+Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
 </a>
 
@@ -117,7 +117,7 @@ My portfolio 👀
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/portfolio/127.0.0.1_5500_test2.htm.png?raw=true)
 
 
-<a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio">
+Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
 </a>
 
@@ -183,7 +183,7 @@ From this task, I learned how to create and simulate circuits using Tinkercad, p
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/TINKERCAD/ULTDSTNCSNSR.png?raw=true)
 
- Tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+ Tinkercad simulation [click me](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 ---
 
@@ -196,7 +196,7 @@ I learned how to control a DC motor's speed using the L298N motor driver and Ard
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SPEED/20241203_180119.jpg?raw=true)
 
-<a href="https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share">
+click me <a href="https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
 </a>
 
@@ -219,7 +219,7 @@ I learned how to control an LED using the ESP32. By programming the ESP32 in the
 
 
 
-<a href="https://youtube.com/shorts/L1lKp86nj68">
+click me <a href="https://youtube.com/shorts/L1lKp86nj68">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
 </a>
 
@@ -266,7 +266,7 @@ Learned to design a burglar alarm system using Karnaugh Maps and logic gates. By
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/KMAP/Screenshot%202024-12-23%20024305.png?raw=true)
 
 
-<a href="https://youtube.com/shorts/ZaFau08NMBU">
+click me <a href="https://youtube.com/shorts/ZaFau08NMBU">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
 </a>
 
