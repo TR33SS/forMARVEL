@@ -92,7 +92,7 @@ Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted
 
 Python libraries like Pandas and Matplotlib really make things easier:
 
-Pandas simplifies data manipulation- for handling messy, complex data.
+Pandas simplifies data manipulation-for handling messy, complex data.
 
 Matplotlib turns that data into beautiful visualizations with just a few lines of code,easy to understand.
 
@@ -133,6 +133,8 @@ Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/
 ## **TASK 8: Writing Resource Article using Markdown**
 
 Learnt how to report with Markdown.
+
+Here's a quick guide to get started with Markdown (MD) [click me](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/markdown.md)
 
 ## **Ornithopters – Recent Advancements in Flapping-Wing Flight**
 
