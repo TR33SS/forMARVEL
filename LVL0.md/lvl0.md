@@ -1,10 +1,9 @@
 
 
----
-```
-                                 _/\_
 
-```
+
+
+
 # WELCOME  EVERYONE 
 ### Hello! I'm SUHAS, a 1st year student at UVCE.
 ### MARVEL Batch-6,IOT
@@ -69,6 +68,8 @@ Concatenate and display two text files:  cat file1.txt file2.txt
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/kaggle/Screenshot_20241220-210943_Chrome.jpg?raw=true)
 ---
 ## **TASK 6: Working with Pandas and Matplotlib:**
+
+Used pandas and matplotlib, and a dataset of UVCE-Placement record(2019), ploted a line graph, bar graph, and scatter plot respectively.
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_1.png?raw=true)
 
@@ -137,10 +138,10 @@ The latest ornithopter designs take inspiration from the biomechanics of birds a
 ## **TASK 9: Tinkercad**
 
 
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/TINKERCAD/ULTDSTNCSNSR.png?raw=true)
 
-
-[click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
+My tinkercad simulation [click here](https://www.tinkercad.com/things/faJlljuKOSn-formarvel/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 ---
 ## **TASK 10: Speed Control of DC Motor**
@@ -169,24 +170,42 @@ The latest ornithopter designs take inspiration from the biomechanics of birds a
 
 ---
 ## **TASK 11: LED Toggle Using ESP32**
+
+ First time,hands-on experience in IoT projects
+ 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/ESP32/IMG-20241202-WA0017.jpg?raw=true)
 
 [click here](https://youtube.com/shorts/L1lKp86nj68)
 
+ [code](https://microdigisoft.com/control-leds-using-esp32-web-server-in-arduino-ide/)
+ 
 ---
 ## **TASK 12: Soldering Prerequisites**
 
 I soldered together a simple LED circuit on a perf board.Soldering isn’t just about melting metal; it’s about precision, patience, and not burning yourself! 
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SOLDERING/WhatsApp%20Image%202024-12-23%20at%203.50.15%20AM.jpeg?raw=true)
+
 without resistor 
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SOLDERING/WhatsApp%20Image%202024-12-23%20at%203.50.16%20AM.jpeg?raw=true)
+
 with resistor
+
 ---
 
 ## **TASK 13: Design a 555 astable multivibrato**
+
+The DSO will display a pulse with a 60% high time and 40% low time, reflecting the 60% duty cycle. The frequency of the pulse depends on your resistor and capacitor values.
+ Duty cycle Expected-60%.My task outcome-59.4%.
+ R1:R2=1:2
+
+![](https://www.electronics-tutorials.ws/wp-content/uploads/2024/03/tim47.gif)
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/555/WhatsApp%20Image%202024-12-23%20at%204.00.21%20AM%20(1).jpeg?raw=true)
+
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/555/WhatsApp%20Image%202024-12-23%20at%204.00.21%20AM.jpeg?raw=true)
+
 ---
 ##  **TASK 14: Karnaugh Maps and Deriving the logic circuit**
 
