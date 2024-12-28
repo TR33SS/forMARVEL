@@ -16,10 +16,8 @@
  ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/3D/20241221_090239.jpg?raw=true)
 
 
- click me <a href="https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
-</a>
 
+Youtube [click me](https://www.youtube.com/shorts/FHlHXXQ0K8k?feature=share)
 
 
 
@@ -37,9 +35,8 @@ APIs act as mediators when signing up via Gmail, securely sharing your informati
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/API%20APP/Screenshot%202024-12-20%20212840.png?raw=true)
 
-Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
-</a>
+Github repo [click me](https://github.com/TR33SS/forMARVEL/tree/API/forMARVEL/API%20APP)
+ 
 
 
 
@@ -104,9 +101,7 @@ Data:TPO-UVCE
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/GRAPH/Figure_3.png?raw=true)
 
-Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
-</a>
+Github repo [click me](https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/GRAPH/GRAPHS)
 
 
 
@@ -121,9 +116,8 @@ My portfolio 👀
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/portfolio/127.0.0.1_5500_test2.htm.png?raw=true)
 
 
-Github repo <a href="https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="30" height="30">
-</a>
+Github repo [click me](https://github.com/TR33SS/forMARVEL/tree/srcfrl0/forMARVEL/portfolio/portfolio)
+ 
 
 
 
@@ -202,9 +196,7 @@ I learned how to control a DC motor's speed using the L298N motor driver and Ard
 
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/SPEED/20241203_180119.jpg?raw=true)
 
-click me <a href="https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
-</a>
+ Youtube [click me](https://www.youtube.com/shorts/aMgIpsPkv8A?feature=share)
 
 
 
@@ -225,10 +217,8 @@ I learned how to control an LED using the ESP32. By programming the ESP32 in the
 
 
 
-click me <a href="https://youtube.com/shorts/L1lKp86nj68">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
-</a>
-
+ Youtube [click me](https://youtube.com/shorts/L1lKp86nj68)
+  
 
 
 ---
@@ -272,10 +262,8 @@ Learned to design a burglar alarm system using Karnaugh Maps and logic gates. By
 ![](https://github.com/TR33SS/forMARVEL/blob/srcfrl0/forMARVEL/KMAP/Screenshot%202024-12-23%20024305.png?raw=true)
 
 
-click me <a href="https://youtube.com/shorts/ZaFau08NMBU">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" height="20">
-</a>
-
+Youtube [click me](https://youtube.com/shorts/ZaFau08NMBU)
+ 
 
 
 
@@ -400,10 +388,11 @@ My first experience with VR was mind-blowing! It felt like stepping into a whole
 
 ---
 
-```
 
-                                                            THANK YOU
-```
----
+
+
+                                            THANK YOU 
+                                                      
+
                                      
 
