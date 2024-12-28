@@ -389,7 +389,7 @@ My first experience with VR was mind-blowing! It felt like stepping into a whole
 ---
 
 
-                                               THANK YOU
+                                                                THANK YOU
                                                       
 
                                      
