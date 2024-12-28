@@ -1,7 +1,7 @@
 
 
-## WELCOME  EVERYONE
-### Suhas's IOT-001  Level 1 Report
+# WELCOME  EVERYONE
+## Suhas's IOT-001  Level 1 Report
 
 ---
 
@@ -389,9 +389,7 @@ My first experience with VR was mind-blowing! It felt like stepping into a whole
 ---
 
 
-
-
-                                            THANK YOU 
+### THANK YOU 
                                                       
 
                                      
