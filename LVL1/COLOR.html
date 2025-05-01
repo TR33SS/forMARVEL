@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Toggle Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            transition: background-color 0.3s ease;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        button {
+            padding: 15px 30px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 25px; /* Round rectangle */
+            border: 2px solid #000000; /* Border color */
+            background-color: #000000; /* Initial button color */
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #000000; /* Button hover color */
+        }
+    </style>
+</head>
+<body>
+    <h1>_/\_WELCOME _/\_</h1>
+    <button id="toggleButton">TOGGLE COLOR</button>
+
+    <script>
+        // Define the VIBGYOR colors
+        const colors = ['violet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red'];
+
+        // Get the button element
+        const button = document.getElementById('toggleButton');
+
+        // Initialize a flag to track the current color index
+        let currentIndex = 0;
+
+        // Add event listener to the button
+        button.addEventListener('click', function() {
+            // Set the background color from the colors array
+            document.body.style.backgroundColor = colors[currentIndex];
+            
+            // Change the button's background color to match the current background color
+            button.style.backgroundColor = colors[currentIndex];
+
+            // Increment the index to move to the next color
+            currentIndex = (currentIndex + 1) % colors.length; // Loop back to the start after red
+        });
+    </script>
+</body>
+</html>
